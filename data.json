@@ -1,0 +1,105 @@
+{
+    "artesanias": [
+      {
+        "id": 1,
+        "nombre": "Collar de Macramé",
+        "categoria": "Accesorios",
+        "descripcion": "Collar hecho a mano de macramé con piedras naturales.",
+        "precio": 15990,
+        "disponible": true,
+        "cantidad_disponible": 20,
+        "imagen_url": "https://example.com/images/collar_macrame.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Vasija de Barro",
+        "categoria": "Decoración",
+        "descripcion": "Vasija tradicional de barro, hecha y pintada a mano.",
+        "precio": 30000,
+        "disponible": true,
+        "cantidad_disponible": 15,
+        "imagen_url": "https://example.com/images/vasija_barro.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Pulsera de Cuentas",
+        "categoria": "Accesorios",
+        "descripcion": "Pulsera de cuentas de madera y hilo resistente.",
+        "precio": 8500,
+        "disponible": true,
+        "cantidad_disponible": 50,
+        "imagen_url": "https://example.com/images/pulsera_cuentas.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Manta Tejida a Mano",
+        "categoria": "Hogar",
+        "descripcion": "Manta de lana tejida a mano con diseño tradicional.",
+        "precio": 45000,
+        "disponible": true,
+        "cantidad_disponible": 10,
+        "imagen_url": "https://example.com/images/manta_tejida.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Cuenco de Cerámica",
+        "categoria": "Hogar",
+        "descripcion": "Cuenco decorativo de cerámica pintado a mano.",
+        "precio": 12750,
+        "disponible": true,
+        "cantidad_disponible": 25,
+        "imagen_url": "https://example.com/images/cuenco_ceramica.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Cartera de Tela Bordada",
+        "categoria": "Accesorios",
+        "descripcion": "Cartera hecha de tela con bordado artesanal.",
+        "precio": 20500,
+        "disponible": true,
+        "cantidad_disponible": 12,
+        "imagen_url": "https://example.com/images/cartera_bordada.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Tapiz de Pared",
+        "categoria": "Decoración",
+        "descripcion": "Tapiz de pared con diseño étnico, hecho a mano.",
+        "precio": 35000,
+        "disponible": true,
+        "cantidad_disponible": 8,
+        "imagen_url": "https://example.com/images/tapiz_pared.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Escultura de Madera Tallada",
+        "categoria": "Decoración",
+        "descripcion": "Escultura tallada en madera, diseño de animal espiritual.",
+        "precio": 50000,
+        "disponible": true,
+        "cantidad_disponible": 5,
+        "imagen_url": "https://example.com/images/escultura_madera.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Bolso de Cuero Artesanal",
+        "categoria": "Accesorios",
+        "descripcion": "Bolso de cuero hecho a mano, resistente y elegante.",
+        "precio": 75000,
+        "disponible": true,
+        "cantidad_disponible": 7,
+        "imagen_url": "https://example.com/images/bolso_cuero.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Llaveros de Fieltro",
+        "categoria": "Accesorios",
+        "descripcion": "Llaveros hechos de fieltro con diseños coloridos.",
+        "precio": 4500,
+        "disponible": true,
+        "cantidad_disponible": 100,
+        "imagen_url": "https://example.com/images/llaveros_fieltro.jpg"
+      }
+    ]
+  }
+  
